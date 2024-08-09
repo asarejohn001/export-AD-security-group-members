@@ -2,7 +2,7 @@
 Export the member of an Active Directory security group using the [Get-ADGroupMember](https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adgroupmember?view=windowsserver2022-ps) cmdlet.
 
 ## Script Description
-The exportADSecGrpMmb.ps1 is a script to export members of a security group.
+The [exportADSecGrpMmb.ps1](./exportADSecGrpMmb.ps1) is a script to export members of a security group.
 
 The script will:
 1. Create a function to log all errors, success, and warnings during runtime.
